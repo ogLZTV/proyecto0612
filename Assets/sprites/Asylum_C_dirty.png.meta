@@ -1,0 +1,3229 @@
+fileFormatVersion: 2
+guid: fd79bfcb735ef7f40bef7132251c84b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asylum_C_dirty_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 721
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0f171d70b34441aa50e48633f94e7
+      internalID: 1577530416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 720
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ac6ccd0c3095468b5d127d2644a78
+      internalID: -873134454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 577
+        width: 80
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8d314ffcb96e4dba5bacfa310a1fc
+      internalID: 1139105762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 624
+        width: 84
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e439f29e75d214faa1afbe6be629b7
+      internalID: 1890885079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 674
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d628fb447e22a2d40b29ccfa4309f099
+      internalID: -1427944102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 672
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e575d2e4584149a17ee1d21f17cd6
+      internalID: -1341912125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 740
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ce736c09f08f4ea82c67c157132f1
+      internalID: -679680416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_7
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 741
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b98669549f9a3468f2c8449e16931f
+      internalID: -1138810225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 675
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57cbac546d53e348a8ef36a53fedfe5
+      internalID: -1247346763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 740
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1ded0a03599a4b9a6598ce8ed69a2
+      internalID: 1793056327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 686
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e38fde4cb26cb4a96e4c683226eb60
+      internalID: -419702365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 144
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c9fd289c2cb1478a4d642255305ba
+      internalID: 142845243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 673
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a8e4ce3c340442a35a3fbbb5b603e
+      internalID: -1341591778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 695
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93264da886120964c90f76451cf690e4
+      internalID: 1674516592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 697
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bebf395d401d5842947f81ecc9e8c75
+      internalID: -409575860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 677
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8018eb06b9ff54084032449a5a6c34
+      internalID: 1235667920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 640
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831cf683c3a000478310cd5441afef4
+      internalID: -334419892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 586
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d0008d9609d14eae2d76d17947e8d
+      internalID: 1605832569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 536
+        width: 44
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7bbb30904e514bac003dcdfc1b56b
+      internalID: 690210268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 432
+        width: 95
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ab92c62444bfd48b9681c0d7424d62
+      internalID: 1336984440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b27076b3fb7e34ea1fd9220acf6e53
+      internalID: -325137728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_21
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 634
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e15496d7dcdd45be3b5be46032373
+      internalID: -2123211225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 634
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac0205153192d428d37e178ef64d50
+      internalID: 1302352587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 554
+        width: 144
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91602a83b1f12ff49b60d94e639158a6
+      internalID: -1798422203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572a6c1fbd957a489ffbdd697f0dffd
+      internalID: -1549666963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 579
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802aeb5aadba984f995ff081d029844
+      internalID: 1390043998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 577
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f09e9047b6f4a4d8594049ea914d6d
+      internalID: 1767247091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 586
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01be6770ca07a4f850ad6d61f8b83f
+      internalID: -2118065124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 586
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a91a5b6397bc0544aae65e2629aaf2c
+      internalID: 355563611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 531
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae6b60fe8b3aa4cb28518248e8bf85
+      internalID: 1881769498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 495
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ac7b01eec2a14f8f3067d43b1071d
+      internalID: -1068084686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 495
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f1ef5bc649a4543b753b3cb54b9d95
+      internalID: -1869985897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 529
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62ea84dfa2a6245be07cc476bb325d
+      internalID: 1092857176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 530
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108fdcf4665550489f398f65e320e4b
+      internalID: 142234580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 530
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c0d824ecb2334cb13c92f41dddc9d
+      internalID: -134697468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 547
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de79decc1395f644e90ebe7ac06d6bf3
+      internalID: -1207201534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 547
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d1f270fd71a9446b486c7c777b2f7b
+      internalID: -1994066194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_37
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 561
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979d3a40d9eaff4587034272c565534
+      internalID: 1506726187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_38
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 555
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a538728b7268c1d47bfcdb17e78b935a
+      internalID: 2034358320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 493
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f19654dcc48d64a98640a95118837b
+      internalID: 1233641653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 528
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac95772cda96a5e46b6ce583880e89d8
+      internalID: -2005229799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_41
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 505
+        width: 145
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc7f4241655dc4faa4dd19a31a3661
+      internalID: 864645517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d8b0de621201438c58fbdfde99eb6
+      internalID: 1301689485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 486
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5261bf597892ba46b223b38d340c358
+      internalID: 348197305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 486
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff1eb71d8cc1b4fb6eb736f19d752f
+      internalID: -1501675845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 487
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fcb7ac87ac0da45942ff845e755802
+      internalID: -2053456683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_46
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 482
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae9556ed01068b4391ee7447b68af61
+      internalID: -1799285211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 482
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669dd8ab34672c4288b044a42692dc9
+      internalID: 1474561919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_48
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 505
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ab60f99e755b45a989fefd4690531
+      internalID: -992753691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_49
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 507
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3798ead499d44cb6ecc7c19e40f82
+      internalID: -1722294282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5df626e4c62244a681c91ed809794
+      internalID: 1254519555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 437
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdf0fe5b9196f418b8d23ad3434821
+      internalID: -646926509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 434
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464a23d6b7cd7749a86a8edd0ca0df2
+      internalID: 2144582234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 436
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686200170c7cecb41857f32ddf4eb1bf
+      internalID: -1842267210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 443
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c558fdbd70d44e945b8966e7bf850
+      internalID: -1901267087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 438
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41831e67333f2d3449c2b54d17e2d874
+      internalID: 1037309090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 440
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab05e95c7bc3441b9bc2a1e250419e
+      internalID: 1015123420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 442
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd6c428ec800c048b82a6bb996a74aa
+      internalID: -609015732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 441
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5634232ee02c2545839ddc5ee07c0eb
+      internalID: -578751141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_59
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 440
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d421173e60097d4c8b22c233de0880e
+      internalID: 715335327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_60
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 415
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2359281630e14daef51f4f74bada1
+      internalID: 1788701162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_61
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 415
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f1baf36713bec45bf14870a4b0c04a
+      internalID: 792685319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_62
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 415
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bc6166d44f7734fb1b5d8638869263
+      internalID: 513807971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_63
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 415
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f003e96bedf2049b05625cc9ab373f
+      internalID: -880297311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16af7e0443a1094eb99e64b19f9f1b1
+      internalID: 1243391409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 362
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8281b7f0d92786d49ad0d78e5b713087
+      internalID: -1293275923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b497354736c3a9d4bbfd212be9bd22e8
+      internalID: -678897467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 387
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767d419c310f1a439b02156bb3def5b
+      internalID: -1126205700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_68
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 387
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ec58d2ecc38204aba8bd0a2e48c69c
+      internalID: 1131384470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 396
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4885949e2d6b5ab4788f4b7ddaa8ed59
+      internalID: -1873978184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_70
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 397
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f07270589e5bc8479da0653b83b5b5a
+      internalID: 1198441966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 390
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00942bdc0504cff43b7fc7802a1a3cb8
+      internalID: -530124955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_72
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 403
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810c921b2578cf4ca5d1297ebd690b4
+      internalID: 607949738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_73
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 403
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311d0f699434ad42b773fc004d0498b
+      internalID: -768656338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 396
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d1f9a1d0b0104086853b8ad856bc1
+      internalID: -1397177845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 192
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb5908455b58d42a13a0f0a9b3af93
+      internalID: 344618502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 346
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f027ebcafb48b4eb99d4017d510b99
+      internalID: 1113290558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_77
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 349
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae7e2cbb3231c41ba48366e26725da
+      internalID: -1944255947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_78
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 346
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de324fe88e9851b4e876941208d26199
+      internalID: -1351378041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 346
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792f1397686d0a4c944a4f317a1cd03
+      internalID: -146502511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_80
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 346
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd86268cf99370448651912f5d18762
+      internalID: 393979134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_81
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 365
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0e6d29371ba9458cb5657261cd298
+      internalID: 831179346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_82
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a44ea0e92c69843a3c8a7ef30ea697
+      internalID: -148939552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_83
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 360
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01adb8c9ade480b409ef0a1176eb2537
+      internalID: 1697933965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_84
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 351
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1dcefc363ee24eb0b52055747ed65
+      internalID: -677452075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_85
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 353
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648891fc2c38b824e831e71f05f5b488
+      internalID: -996144774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 299
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a9f583efcacc42b855d65a1da76f0
+      internalID: -1996824842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 298
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23dd46c9c036b54eae1bbb460b1f052
+      internalID: -1605650869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_88
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 296
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15719aaa88268c545837d2f7136973c5
+      internalID: -540186059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_89
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 297
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c0503fa15fc9499a9e33a3057d493
+      internalID: -241583496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_90
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 308
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b761010cef2b19b4d9e9132ec44688c3
+      internalID: 1796469852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_91
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 311
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da871753c777fe44bf230f234df76da
+      internalID: -706502172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_92
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 297
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5ad54c299fdd429515cf73cd05472
+      internalID: -1351508557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_93
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 297
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9670043edb8e6dd49a15c605c766fa1b
+      internalID: 2001864081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_94
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 289
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d3b5d0ccef4147b690837f22392b0
+      internalID: 1083430686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ea9b6e8cc2e44282849a5fa6ce73a
+      internalID: -1607541271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_96
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 244
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d567362861271d4bac6775206f364ef
+      internalID: -295992810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e329d8c4fbd54d9193649562b2ffe
+      internalID: -1924318932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_98
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 261
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a866185865c441a041263864f3ad1
+      internalID: 80246452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 243
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bcb70d7945f3746ae27c4cadb3e918
+      internalID: 1989083475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_100
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 260
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f35beb494e3e447bcfe998961069cc
+      internalID: 1061457205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_101
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 264
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b860554fa9624b459f092cc46a5e1ef
+      internalID: -1797874582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_102
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 144
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146f6d6fa5721bb4c9076d23991491a0
+      internalID: 2031991634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 96
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b28e6971535e4e93995e24f05f7a9
+      internalID: -105550951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 173
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d257b2d1bdfa47aca32a24d769c6b
+      internalID: -2106337804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b06c7f4ce0e245a05625400809493
+      internalID: 1810337069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_106
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 211
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a2c1d10553e234da58e525d1fd413a
+      internalID: 1083898573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_107
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6fdf0341372e45ae96b78f9bce7f4
+      internalID: -764605727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_108
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 200
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34495f4f578c4a44699ab11f9d05d28a
+      internalID: 624383509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_109
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 192
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbde51f66047a44b5d0c637dcb4eaf
+      internalID: 1181345882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_110
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 224
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a704fbe3ad23042aec08776711ba29
+      internalID: 1471631225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_111
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 218
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5eea05209d5c499b61a566bf50b9f
+      internalID: 1500326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_112
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 217
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd178493a09d4eb4c94939827ca2ab35
+      internalID: -1382120691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_113
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 176
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f6b91fae3ae2a4c9edd75922a522a3
+      internalID: 1355886042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_114
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 161
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783177e6b1161c4b9fdc577760d76c6
+      internalID: -1304873458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_115
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 172
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daccae0a599ba1c4da053e9363936e04
+      internalID: -743392453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_116
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 162
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8544aaa564f17468bf43a7699835a8
+      internalID: -911915383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_117
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 148
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1871bb1805f84188a73a9418ed697
+      internalID: 1072200800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_118
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 163
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bad694dd6df444498a91c06c143ace4
+      internalID: 1548071568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_119
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 175
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d199723857b0bf45a50a46568f6688d
+      internalID: 1990496908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35a74f194086b41b928f54ee576ba8
+      internalID: -1572102396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_121
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 118
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d16f352c4957144f87499c7c1f27ed0
+      internalID: -1122223193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 125
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d20e94a579af7446b6271cb069a6264
+      internalID: 1341136203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 118
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93583e645c1b81498891fd9715cdf73
+      internalID: -760838313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_124
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 99
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afb776f34b94d46adbc36f2793cd84
+      internalID: 239961907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_125
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 114
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f808cd5139f8f647ac95f167b5f215e
+      internalID: -2101830557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 52
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de6c2463b78850458b7a5c64f01981e
+      internalID: -1723427449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f12f2ad04ed2442bb958638a97776f
+      internalID: -1973355271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_128
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 71
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc869970c9c7fb4abc72c2e38e2fae6
+      internalID: -1654255653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 49
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d5cc2f569d7b46a86ace7a6eceb96
+      internalID: -974931040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 62
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b63d0418f024674c87be218092df609
+      internalID: 1531863539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_131
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 45
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c21f9a0dab96f45b92e4ad93e334fc
+      internalID: 1008859017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_132
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc21cb43745d4aa4190cf6cbc1168c08
+      internalID: -626460665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebdff04b757bf41ad248f45fef90dc
+      internalID: 1274061986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e43a3671c2e764fa409e0b844a14bd
+      internalID: -586756560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_135
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339a347faf408bf438f3fd951ef37762
+      internalID: -177045405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cfe9723990ca4dab2048dd815dc88
+      internalID: 904268437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_137
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfee83d1e2c2e814fadcea0972874631
+      internalID: -248510090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_138
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece7c40ed605fe458d47f4aa87607fc
+      internalID: 1330766847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_139
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 27
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac8fc72d366e8488f8b0b3efe7f4e3
+      internalID: 558446368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asylum_C_dirty_140
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0282696e40a444ae4098490b0683b
+      internalID: -103948928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asylum_C_dirty_0: 1577530416
+      Asylum_C_dirty_1: -873134454
+      Asylum_C_dirty_10: -419702365
+      Asylum_C_dirty_100: 1061457205
+      Asylum_C_dirty_101: -1797874582
+      Asylum_C_dirty_102: 2031991634
+      Asylum_C_dirty_103: -105550951
+      Asylum_C_dirty_104: -2106337804
+      Asylum_C_dirty_105: 1810337069
+      Asylum_C_dirty_106: 1083898573
+      Asylum_C_dirty_107: -764605727
+      Asylum_C_dirty_108: 624383509
+      Asylum_C_dirty_109: 1181345882
+      Asylum_C_dirty_11: 142845243
+      Asylum_C_dirty_110: 1471631225
+      Asylum_C_dirty_111: 1500326673
+      Asylum_C_dirty_112: -1382120691
+      Asylum_C_dirty_113: 1355886042
+      Asylum_C_dirty_114: -1304873458
+      Asylum_C_dirty_115: -743392453
+      Asylum_C_dirty_116: -911915383
+      Asylum_C_dirty_117: 1072200800
+      Asylum_C_dirty_118: 1548071568
+      Asylum_C_dirty_119: 1990496908
+      Asylum_C_dirty_12: -1341591778
+      Asylum_C_dirty_120: -1572102396
+      Asylum_C_dirty_121: -1122223193
+      Asylum_C_dirty_122: 1341136203
+      Asylum_C_dirty_123: -760838313
+      Asylum_C_dirty_124: 239961907
+      Asylum_C_dirty_125: -2101830557
+      Asylum_C_dirty_126: -1723427449
+      Asylum_C_dirty_127: -1973355271
+      Asylum_C_dirty_128: -1654255653
+      Asylum_C_dirty_129: -974931040
+      Asylum_C_dirty_13: 1674516592
+      Asylum_C_dirty_130: 1531863539
+      Asylum_C_dirty_131: 1008859017
+      Asylum_C_dirty_132: -626460665
+      Asylum_C_dirty_133: 1274061986
+      Asylum_C_dirty_134: -586756560
+      Asylum_C_dirty_135: -177045405
+      Asylum_C_dirty_136: 904268437
+      Asylum_C_dirty_137: -248510090
+      Asylum_C_dirty_138: 1330766847
+      Asylum_C_dirty_139: 558446368
+      Asylum_C_dirty_14: -409575860
+      Asylum_C_dirty_140: -103948928
+      Asylum_C_dirty_15: 1235667920
+      Asylum_C_dirty_16: -334419892
+      Asylum_C_dirty_17: 1605832569
+      Asylum_C_dirty_18: 690210268
+      Asylum_C_dirty_19: 1336984440
+      Asylum_C_dirty_2: 1139105762
+      Asylum_C_dirty_20: -325137728
+      Asylum_C_dirty_21: -2123211225
+      Asylum_C_dirty_22: 1302352587
+      Asylum_C_dirty_23: -1798422203
+      Asylum_C_dirty_24: -1549666963
+      Asylum_C_dirty_25: 1390043998
+      Asylum_C_dirty_26: 1767247091
+      Asylum_C_dirty_27: -2118065124
+      Asylum_C_dirty_28: 355563611
+      Asylum_C_dirty_29: 1881769498
+      Asylum_C_dirty_3: 1890885079
+      Asylum_C_dirty_30: -1068084686
+      Asylum_C_dirty_31: -1869985897
+      Asylum_C_dirty_32: 1092857176
+      Asylum_C_dirty_33: 142234580
+      Asylum_C_dirty_34: -134697468
+      Asylum_C_dirty_35: -1207201534
+      Asylum_C_dirty_36: -1994066194
+      Asylum_C_dirty_37: 1506726187
+      Asylum_C_dirty_38: 2034358320
+      Asylum_C_dirty_39: 1233641653
+      Asylum_C_dirty_4: -1427944102
+      Asylum_C_dirty_40: -2005229799
+      Asylum_C_dirty_41: 864645517
+      Asylum_C_dirty_42: 1301689485
+      Asylum_C_dirty_43: 348197305
+      Asylum_C_dirty_44: -1501675845
+      Asylum_C_dirty_45: -2053456683
+      Asylum_C_dirty_46: -1799285211
+      Asylum_C_dirty_47: 1474561919
+      Asylum_C_dirty_48: -992753691
+      Asylum_C_dirty_49: -1722294282
+      Asylum_C_dirty_5: -1341912125
+      Asylum_C_dirty_50: 1254519555
+      Asylum_C_dirty_51: -646926509
+      Asylum_C_dirty_52: 2144582234
+      Asylum_C_dirty_53: -1842267210
+      Asylum_C_dirty_54: -1901267087
+      Asylum_C_dirty_55: 1037309090
+      Asylum_C_dirty_56: 1015123420
+      Asylum_C_dirty_57: -609015732
+      Asylum_C_dirty_58: -578751141
+      Asylum_C_dirty_59: 715335327
+      Asylum_C_dirty_6: -679680416
+      Asylum_C_dirty_60: 1788701162
+      Asylum_C_dirty_61: 792685319
+      Asylum_C_dirty_62: 513807971
+      Asylum_C_dirty_63: -880297311
+      Asylum_C_dirty_64: 1243391409
+      Asylum_C_dirty_65: -1293275923
+      Asylum_C_dirty_66: -678897467
+      Asylum_C_dirty_67: -1126205700
+      Asylum_C_dirty_68: 1131384470
+      Asylum_C_dirty_69: -1873978184
+      Asylum_C_dirty_7: -1138810225
+      Asylum_C_dirty_70: 1198441966
+      Asylum_C_dirty_71: -530124955
+      Asylum_C_dirty_72: 607949738
+      Asylum_C_dirty_73: -768656338
+      Asylum_C_dirty_74: -1397177845
+      Asylum_C_dirty_75: 344618502
+      Asylum_C_dirty_76: 1113290558
+      Asylum_C_dirty_77: -1944255947
+      Asylum_C_dirty_78: -1351378041
+      Asylum_C_dirty_79: -146502511
+      Asylum_C_dirty_8: -1247346763
+      Asylum_C_dirty_80: 393979134
+      Asylum_C_dirty_81: 831179346
+      Asylum_C_dirty_82: -148939552
+      Asylum_C_dirty_83: 1697933965
+      Asylum_C_dirty_84: -677452075
+      Asylum_C_dirty_85: -996144774
+      Asylum_C_dirty_86: -1996824842
+      Asylum_C_dirty_87: -1605650869
+      Asylum_C_dirty_88: -540186059
+      Asylum_C_dirty_89: -241583496
+      Asylum_C_dirty_9: 1793056327
+      Asylum_C_dirty_90: 1796469852
+      Asylum_C_dirty_91: -706502172
+      Asylum_C_dirty_92: -1351508557
+      Asylum_C_dirty_93: 2001864081
+      Asylum_C_dirty_94: 1083430686
+      Asylum_C_dirty_95: -1607541271
+      Asylum_C_dirty_96: -295992810
+      Asylum_C_dirty_97: -1924318932
+      Asylum_C_dirty_98: 80246452
+      Asylum_C_dirty_99: 1989083475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
